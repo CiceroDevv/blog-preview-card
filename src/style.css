@@ -28,7 +28,6 @@ main {
 }
 main .content {
   width: 250px;
-  /* border: 1px solid black; */
 }
 .content-img {
   border-radius: 10px;
