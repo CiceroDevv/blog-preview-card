@@ -63,8 +63,8 @@ main .decriptions {
 }
 .img-nome img {
   width: 40px;
+  margin: 0 10px 0 0;
 }
 .img-nome p {
-  padding: 0 0 0 10px;
   font-weight: 700;
 }
